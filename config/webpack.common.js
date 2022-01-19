@@ -62,6 +62,7 @@ const common = {
       filename: '[name].css',
     }),
   ],
+  target: ['web', 'es2020'],
 };
 
 module.exports = common;
